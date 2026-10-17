@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "id": "zh-greeting-v1",
+  "language": "zh",
+  "semantic_frame_rate": 25,
+  "gpt_sha256": "fc068e2d97dfd149b080bbf4af2d27acbb04dad57ae8de6bd0bd4fbf39726376",
+  "file": "zh-greeting-v1.npz",
+  "sha256": "080eb83580329ab133720b603b6ee73ca4f3211ea2bf3341b47aaf208d37a712",
+  "phone_count": 26,
+  "token_count": 87,
+  "text": "你好呀，欢迎来到我的小世界。",
+  "normalized_text": "你好呀,欢迎来到我的小世界.",
+  "provenance": {
+    "kind": "encoded-reference-audio",
+    "pcm_encoded": true,
+    "audio_sha256": "1243642dde35695e163dcd465ded09c79df2624610114a00a989703ed50690d8",
+    "audio_seconds": 3.2,
+    "trailing_silence_sec": 0.3,
+    "sovits_sha256": "0eed8d631895cc3722c37d25669fe9d92d35301817394b26e96867d30a3074d8",
+    "source": "Synthetic Mandarin speech generated with Qwen3-TTS, provided to DesksideWorks for this project; first sentence (0-3.2 s) of the clip",
+    "license": "Generated audio provided for this project; the Qwen3-TTS model is released under the Apache License 2.0"
+  }
+}

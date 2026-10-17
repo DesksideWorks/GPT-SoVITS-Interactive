@@ -1,0 +1,801 @@
+Python Third Party Notices / Python 第三方许可清单
+
+Generated from installed runtime metadata; license declarations are not independent legal verification.
+根据实际安装环境生成；元数据声明不等于独立授权认定。完整原文见 PythonThirdPartyLicenseTexts.txt。
+Original package licenses remain in their runtime directories. Supplemental texts retain their source URLs.
+Non-Python code, model weights, dictionaries and character rights also have separate notices.
+
+Supplemental texts cover flatbuffers, jieba, jieba_fast, loguru, sentencepiece, tokenizers and wordsegment.
+python-fire 0.1.0: distributor supplement preserves the MIT declaration from the wheel/source release, author attribution, and standard SPDX MIT text.
+This supplement is identified as distributor-supplied, not an original upstream LICENSE. No copyright year is inferred.
+python-fire is a different distribution from Google Fire; their license texts are not interchangeable.
+
+Installed distribution entries: 224
+Unique license text blocks: 145
+
+Runtime/Python_CUDA
+Distributions: 109
+
+aiohappyeyeballs 2.6.2 — PSF-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/aiohappyeyeballs-2.6.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/aiohappyeyeballs-2.6.2.dist-info/licenses/LICENSE
+aiohttp 3.14.0 — Apache-2.0 AND MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/aiohttp-3.14.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/aiohttp-3.14.0.dist-info/licenses/LICENSE.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/aiohttp-3.14.0.dist-info/licenses/vendor/llhttp/LICENSE
+aiosignal 1.4.0 — Apache 2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/aiosignal-1.4.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/aiosignal-1.4.0.dist-info/licenses/LICENSE
+annotated-doc 0.0.4 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/annotated_doc-0.0.4.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/annotated_doc-0.0.4.dist-info/licenses/LICENSE
+annotated-types 0.7.0 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/annotated_types-0.7.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/annotated_types-0.7.0.dist-info/licenses/LICENSE
+anyio 4.13.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/anyio-4.13.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/anyio-4.13.0.dist-info/licenses/LICENSE
+async-timeout 5.0.1 — Apache 2
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/async_timeout-5.0.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/async_timeout-5.0.1.dist-info/LICENSE
+attrs 26.1.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/attrs-26.1.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/attrs-26.1.0.dist-info/licenses/LICENSE
+audioread 3.1.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/audioread-3.1.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/audioread-3.1.0.dist-info/licenses/LICENSE
+budoux 0.9.3 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/budoux-0.9.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/budoux-0.9.3.dist-info/licenses/LICENSE
+certifi 2026.5.20 — MPL-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/certifi-2026.5.20.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/certifi-2026.5.20.dist-info/licenses/LICENSE
+cffi 2.0.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/cffi-2.0.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/cffi-2.0.0.dist-info/licenses/AUTHORS
+  License: Runtime/Python_CUDA/Lib/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE
+charset-normalizer 3.4.7 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/charset_normalizer-3.4.7.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/charset_normalizer-3.4.7.dist-info/licenses/LICENSE
+click 8.4.1 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/click-8.4.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/click-8.4.1.dist-info/licenses/LICENSE.txt
+cn2an 0.5.22 — MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/cn2an-0.5.22.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/cn2an-0.5.22.dist-info/LICENSE
+colorama 0.4.6 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/colorama-0.4.6.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt
+coloredlogs 15.0.1 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/coloredlogs-15.0.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/coloredlogs-15.0.1.dist-info/LICENSE.txt
+colorlog 6.12.0 — MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/colorlog-6.12.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/colorlog-6.12.0.dist-info/licenses/LICENSE
+decorator 5.3.1 — BSD-2-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/decorator-5.3.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/decorator-5.3.1.dist-info/licenses/LICENSE.txt
+einops 0.8.2 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/einops-0.8.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/einops-0.8.2.dist-info/licenses/LICENSE
+einx 0.4.3 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/einx-0.4.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/einx-0.4.3.dist-info/licenses/LICENSE
+exceptiongroup 1.3.1 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/exceptiongroup-1.3.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/exceptiongroup-1.3.1.dist-info/licenses/LICENSE
+fast-langdetect 0.3.1 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/fast_langdetect-0.3.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/fast_langdetect/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/fast_langdetect/resources/NOTICE.MD
+  License: Runtime/Python_CUDA/Lib/site-packages/fast_langdetect-0.3.1.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/fast_langdetect-0.3.1.dist-info/licenses/NOTICE.MD
+fastapi 0.136.3 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/fastapi-0.136.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/fastapi-0.136.3.dist-info/licenses/LICENSE
+fasttext-predict 0.9.2.4 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/fasttext_predict-0.9.2.4.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/fasttext_predict-0.9.2.4.dist-info/LICENSE
+filelock 3.29.1 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/filelock-3.29.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/filelock-3.29.1.dist-info/licenses/LICENSE
+flatbuffers 25.12.19 — Apache 2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/flatbuffers-25.12.19.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+frozendict 2.4.7 — LGPL v3
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/frozendict-2.4.7.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/frozendict-2.4.7.dist-info/licenses/LICENSE.txt
+frozenlist 1.8.0 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/frozenlist-1.8.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/frozenlist-1.8.0.dist-info/licenses/LICENSE
+fsspec 2026.4.0 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/fsspec-2026.4.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/fsspec-2026.4.0.dist-info/licenses/LICENSE
+ftfy 6.3.1 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/ftfy-6.3.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/ftfy-6.3.1.dist-info/licenses/LICENSE.txt
+g2p-en 2.1.0 — Apache Software License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/g2p_en-2.1.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/g2p_en-2.1.0.dist-info/LICENSE.txt
+h11 0.16.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/h11-0.16.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt
+huggingface_hub 0.36.2 — Apache
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/huggingface_hub-0.36.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/huggingface_hub-0.36.2.dist-info/licenses/LICENSE
+humanfriendly 10.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/humanfriendly-10.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/humanfriendly-10.0.dist-info/LICENSE.txt
+idna 3.18 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/idna-3.18.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.md
+inflect 7.5.0 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/inflect-7.5.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/inflect-7.5.0.dist-info/LICENSE
+ipadic 1.0.0 — Not declared
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/ipadic-1.0.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/ipadic/dicdir/COPYING
+jieba 0.42.1 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/jieba-0.42.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+jieba_fast 0.53 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/jieba_fast-0.53.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+Jinja2 3.1.6 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/jinja2-3.1.6.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/jinja2-3.1.6.dist-info/licenses/LICENSE.txt
+joblib 1.5.3 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/joblib-1.5.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/joblib-1.5.3.dist-info/licenses/LICENSE.txt
+langcodes 3.5.1 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/langcodes-3.5.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/langcodes-3.5.1.dist-info/licenses/LICENSE.txt
+lazy-loader 0.5 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/lazy_loader-0.5.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/lazy_loader-0.5.dist-info/licenses/LICENSE.md
+librosa 0.10.2 — ISC
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/librosa-0.10.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/librosa-0.10.2.dist-info/LICENSE.md
+lightning-utilities 0.15.3 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/lightning_utilities-0.15.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/lightning_utilities-0.15.3.dist-info/licenses/LICENSE
+llvmlite 0.47.0 — Not declared
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/llvmlite-0.47.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/llvmlite-0.47.0.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/llvmlite-0.47.0.dist-info/LICENSE.thirdparty
+locate 1.1.1 — License :: Other/Proprietary License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/locate-1.1.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/locate-1.1.1.dist-info/LICENSE
+loguru 0.7.3 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/loguru-0.7.3.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+MarkupSafe 3.0.3 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/markupsafe-3.0.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt
+mecab-ko-dic 1.0.0 — Not declared
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/mecab_ko_dic-1.0.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/mecab_ko_dic/dicdir/COPYING
+mecab-python3 1.0.12 — BSD
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/mecab_python3-1.0.12.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/mecab_python3-1.0.12.dist-info/licenses/AUTHORS
+  License: Runtime/Python_CUDA/Lib/site-packages/mecab_python3-1.0.12.dist-info/licenses/COPYING
+more-itertools 11.1.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/more_itertools-11.1.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/more_itertools-11.1.0.dist-info/licenses/LICENSE
+mpmath 1.3.0 — BSD
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/mpmath-1.3.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/mpmath-1.3.0.dist-info/LICENSE
+msgpack 1.1.2 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/msgpack-1.1.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/msgpack-1.1.2.dist-info/licenses/COPYING
+multidict 6.7.1 — Apache License 2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/multidict-6.7.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/multidict-6.7.1.dist-info/licenses/LICENSE
+networkx 3.4.2 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/networkx-3.4.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/networkx-3.4.2.dist-info/LICENSE.txt
+nltk 3.9.4 — Apache License, Version 2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/nltk-3.9.4.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/nltk-3.9.4.dist-info/licenses/AUTHORS.md
+  License: Runtime/Python_CUDA/Lib/site-packages/nltk-3.9.4.dist-info/licenses/LICENSE.txt
+numba 0.65.1 — BSD
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/numba-0.65.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/numba-0.65.1.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/numba-0.65.1.dist-info/LICENSES.third-party
+numpy 1.26.4 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/numpy-1.26.4.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/numpy/core/include/numpy/random/LICENSE.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/numpy/ma/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/numpy/random/LICENSE.md
+  License: Runtime/Python_CUDA/Lib/site-packages/numpy-1.26.4.dist-info/LICENSE.txt
+onnxruntime 1.23.2 — MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/onnxruntime-1.23.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/onnxruntime/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/onnxruntime/ThirdPartyNotices.txt
+opencc-python-reimplemented 0.1.7 — Apache License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/opencc_python_reimplemented-0.1.7.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/opencc/NOTICE.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/opencc_python_reimplemented-0.1.7.dist-info/LICENSE.txt
+packaging 26.2 — Apache-2.0 OR BSD-2-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/packaging-26.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE.APACHE
+  License: Runtime/Python_CUDA/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE.BSD
+platformdirs 4.10.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/platformdirs-4.10.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/platformdirs-4.10.0.dist-info/licenses/LICENSE
+pooch 1.9.0 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pooch-1.9.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pooch-1.9.0.dist-info/licenses/AUTHORS.md
+  License: Runtime/Python_CUDA/Lib/site-packages/pooch-1.9.0.dist-info/licenses/LICENSE.txt
+proces 0.1.7 — MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/proces-0.1.7.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/proces-0.1.7.dist-info/LICENSE
+propcache 0.5.2 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/propcache-0.5.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/propcache-0.5.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/propcache-0.5.2.dist-info/licenses/NOTICE
+protobuf 7.36.2 — 3-Clause BSD License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/protobuf-7.36.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/protobuf-7.36.2.dist-info/LICENSE
+pycparser 3.0 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pycparser-3.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pycparser-3.0.dist-info/licenses/LICENSE
+pydantic 2.10.6 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pydantic-2.10.6.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pydantic-2.10.6.dist-info/licenses/LICENSE
+pydantic_core 2.27.2 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pydantic_core-2.27.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pydantic_core-2.27.2.dist-info/licenses/LICENSE
+pyopenjtalk 0.4.1 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pyopenjtalk-0.4.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pyopenjtalk/htsvoice/LICENSE_mei_normal.htsvoice
+  License: Runtime/Python_CUDA/Lib/site-packages/pyopenjtalk-0.4.1.dist-info/licenses/LICENSE.md
+pypinyin 0.50.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pypinyin-0.50.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pypinyin-0.50.0.dist-info/LICENSE.txt
+pyreadline3 3.5.6 — BSD
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pyreadline3-3.5.6.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pyreadline3-3.5.6.dist-info/licenses/LICENSE.md
+pytorch-lightning 2.6.5 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pytorch_lightning-2.6.5.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pytorch_lightning-2.6.5.dist-info/licenses/LICENSE
+PyYAML 6.0.3 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/pyyaml-6.0.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/pyyaml-6.0.3.dist-info/licenses/LICENSE
+regex 2026.5.9 — Apache-2.0 AND CNRI-Python
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/regex-2026.5.9.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/regex-2026.5.9.dist-info/licenses/LICENSE.txt
+requests 2.34.2 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/requests-2.34.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/requests-2.34.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/requests-2.34.2.dist-info/licenses/NOTICE
+robust-downloader 0.0.2 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/robust_downloader-0.0.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/robust_downloader-0.0.2.dist-info/LICENSE.md
+rotary-embedding-torch 0.8.9 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/rotary_embedding_torch-0.8.9.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/rotary_embedding_torch-0.8.9.dist-info/licenses/LICENSE
+safetensors 0.7.0 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/safetensors-0.7.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/safetensors-0.7.0.dist-info/licenses/LICENSE
+scikit-learn 1.7.2 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/scikit_learn-1.7.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/scikit_learn-1.7.2.dist-info/licenses/COPYING
+  License: Runtime/Python_CUDA/Lib/site-packages/sklearn/externals/array_api_compat/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/sklearn/externals/array_api_extra/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/sklearn/svm/src/liblinear/COPYRIGHT
+scipy 1.15.3 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/scipy-1.15.3.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/scipy/_lib/_uarray/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/scipy/fft/_pocketfft/LICENSE.md
+  License: Runtime/Python_CUDA/Lib/site-packages/scipy/sparse/linalg/_eigen/arpack/COPYING
+  License: Runtime/Python_CUDA/Lib/site-packages/scipy/spatial/qhull_src/COPYING.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/scipy-1.15.3.dist-info/LICENSE.txt
+sentencepiece 0.2.1 — Not declared
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/sentencepiece-0.2.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+setuptools 81.0.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/setuptools-81.0.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.APACHE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.BSD
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/config/_validate_pyproject/NOTICE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools/config/NOTICE
+  License: Runtime/Python_CUDA/Lib/site-packages/setuptools-81.0.0.dist-info/licenses/LICENSE
+soundfile 0.14.0 — BSD 3-Clause License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/soundfile-0.14.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/_soundfile_data/COPYING
+  License: Runtime/Python_CUDA/Lib/site-packages/licensing/license_notes.md
+  License: Runtime/Python_CUDA/Lib/site-packages/soundfile-0.14.0.dist-info/LICENSE
+soxr 1.1.0 — LGPL-2.1-or-later
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/soxr-1.1.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/soxr-1.1.0.dist-info/licenses/COPYING.LGPL
+  License: Runtime/Python_CUDA/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE-libsoxr.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE-PFFFT.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE.txt
+split-lang 2.0.6 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/split_lang-2.0.6.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/split_lang-2.0.6.dist-info/LICENSE
+starlette 1.2.1 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/starlette-1.2.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/starlette-1.2.1.dist-info/licenses/LICENSE.md
+sympy 1.14.0 — BSD
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/sympy-1.14.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/sympy/parsing/latex/LICENSE.txt
+  License: Runtime/Python_CUDA/Lib/site-packages/sympy-1.14.0.dist-info/licenses/AUTHORS
+  License: Runtime/Python_CUDA/Lib/site-packages/sympy-1.14.0.dist-info/licenses/LICENSE
+threadpoolctl 3.6.0 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/threadpoolctl-3.6.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/threadpoolctl-3.6.0.dist-info/licenses/LICENSE
+tokenizers 0.21.4 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/tokenizers-0.21.4.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+torch 2.11.0+cu128 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/torch-2.11.0+cu128.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/torch-2.11.0+cu128.dist-info/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/torch-2.11.0+cu128.dist-info/NOTICE
+torch-einops-utils 0.1.2 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/torch_einops_utils-0.1.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/torch_einops_utils-0.1.2.dist-info/licenses/LICENSE
+torchaudio 2.11.0+cu128 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/torchaudio-2.11.0+cu128.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/torchaudio-2.11.0+cu128.dist-info/licenses/LICENSE
+torchmetrics 1.5.0 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/torchmetrics-1.5.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/torchmetrics-1.5.0.dist-info/LICENSE
+tqdm 4.68.1 — MPL-2.0 AND MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/tqdm-4.68.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/tqdm-4.68.1.dist-info/licenses/LICENCE
+transformers 4.50.0 — Apache 2.0 License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/transformers-4.50.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/transformers-4.50.0.dist-info/LICENSE
+typeguard 4.5.2 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/typeguard-4.5.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/typeguard-4.5.2.dist-info/licenses/LICENSE
+typing_extensions 4.15.0 — PSF-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/typing_extensions-4.15.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/typing_extensions-4.15.0.dist-info/licenses/LICENSE
+typing-inspection 0.4.2 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/typing_inspection-0.4.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/typing_inspection-0.4.2.dist-info/licenses/LICENSE
+urllib3 2.7.0 — MIT
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/urllib3-2.7.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/urllib3-2.7.0.dist-info/licenses/LICENSE.txt
+uvicorn 0.49.0 — BSD-3-Clause
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/uvicorn-0.49.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/uvicorn-0.49.0.dist-info/licenses/LICENSE.md
+wcwidth 0.9.2 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/wcwidth-0.9.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/wcwidth-0.9.2.dist-info/licenses/LICENSE
+win32_setctime 1.2.0 — MIT license
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/win32_setctime-1.2.0.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/win32_setctime-1.2.0.dist-info/LICENSE
+wordfreq 3.1.1 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/wordfreq-3.1.1.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/wordfreq-3.1.1.dist-info/LICENSE.txt
+wordsegment 1.3.1 — Apache 2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/wordsegment-1.3.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+x-transformers 2.19.12 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/x_transformers-2.19.12.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/x_transformers-2.19.12.dist-info/licenses/LICENSE
+yarl 1.24.2 — Apache-2.0
+  Metadata: Runtime/Python_CUDA/Lib/site-packages/yarl-1.24.2.dist-info/METADATA
+  License: Runtime/Python_CUDA/Lib/site-packages/yarl-1.24.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_CUDA/Lib/site-packages/yarl-1.24.2.dist-info/licenses/NOTICE
+
+Runtime/Python_DirectML
+Distributions: 115
+
+aiohappyeyeballs 2.6.2 — PSF-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/aiohappyeyeballs-2.6.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/aiohappyeyeballs-2.6.2.dist-info/licenses/LICENSE
+aiohttp 3.14.0 — Apache-2.0 AND MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/aiohttp-3.14.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/aiohttp-3.14.0.dist-info/licenses/LICENSE.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/aiohttp-3.14.0.dist-info/licenses/vendor/llhttp/LICENSE
+aiosignal 1.4.0 — Apache 2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/aiosignal-1.4.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/aiosignal-1.4.0.dist-info/licenses/LICENSE
+annotated-doc 0.0.4 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/annotated_doc-0.0.4.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/annotated_doc-0.0.4.dist-info/licenses/LICENSE
+annotated-types 0.7.0 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/annotated_types-0.7.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/annotated_types-0.7.0.dist-info/licenses/LICENSE
+anyio 4.13.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/anyio-4.13.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/anyio-4.13.0.dist-info/licenses/LICENSE
+async-timeout 5.0.1 — Apache 2
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/async_timeout-5.0.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/async_timeout-5.0.1.dist-info/LICENSE
+attrs 26.1.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/attrs-26.1.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/attrs-26.1.0.dist-info/licenses/LICENSE
+audioread 3.1.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/audioread-3.1.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/audioread-3.1.0.dist-info/licenses/LICENSE
+budoux 0.9.3 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/budoux-0.9.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/budoux-0.9.3.dist-info/licenses/LICENSE
+certifi 2026.5.20 — MPL-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/certifi-2026.5.20.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/certifi-2026.5.20.dist-info/licenses/LICENSE
+cffi 2.0.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/cffi-2.0.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/cffi-2.0.0.dist-info/licenses/AUTHORS
+  License: Runtime/Python_DirectML/Lib/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE
+charset-normalizer 3.4.7 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/charset_normalizer-3.4.7.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/charset_normalizer-3.4.7.dist-info/licenses/LICENSE
+click 8.4.1 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/click-8.4.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/click-8.4.1.dist-info/licenses/LICENSE.txt
+cn2an 0.5.22 — MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/cn2an-0.5.22.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/cn2an-0.5.22.dist-info/LICENSE
+colorama 0.4.6 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/colorama-0.4.6.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt
+coloredlogs 15.0.1 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/coloredlogs-15.0.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/coloredlogs-15.0.1.dist-info/LICENSE.txt
+colorlog 6.12.0 — MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/colorlog-6.12.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/colorlog-6.12.0.dist-info/licenses/LICENSE
+decorator 5.3.1 — BSD-2-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/decorator-5.3.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/decorator-5.3.1.dist-info/licenses/LICENSE.txt
+einops 0.8.2 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/einops-0.8.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/einops-0.8.2.dist-info/licenses/LICENSE
+einx 0.4.3 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/einx-0.4.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/einx-0.4.3.dist-info/licenses/LICENSE
+ema-pytorch 0.7.9 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/ema_pytorch-0.7.9.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/ema_pytorch-0.7.9.dist-info/licenses/LICENSE
+exceptiongroup 1.3.1 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/exceptiongroup-1.3.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/exceptiongroup-1.3.1.dist-info/licenses/LICENSE
+fast-langdetect 0.3.1 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/fast_langdetect-0.3.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/fast_langdetect/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/fast_langdetect/resources/NOTICE.MD
+  License: Runtime/Python_DirectML/Lib/site-packages/fast_langdetect-0.3.1.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/fast_langdetect-0.3.1.dist-info/licenses/NOTICE.MD
+fastapi 0.136.3 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/fastapi-0.136.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/fastapi-0.136.3.dist-info/licenses/LICENSE
+fasttext-predict 0.9.2.4 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/fasttext_predict-0.9.2.4.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/fasttext_predict-0.9.2.4.dist-info/LICENSE
+filelock 3.29.1 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/filelock-3.29.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/filelock-3.29.1.dist-info/licenses/LICENSE
+fire 0.7.1 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/fire-0.7.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/fire-0.7.1.dist-info/licenses/LICENSE
+flatbuffers 25.12.19 — Apache 2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/flatbuffers-25.12.19.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+frozendict 2.4.7 — LGPL v3
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/frozendict-2.4.7.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/frozendict-2.4.7.dist-info/licenses/LICENSE.txt
+frozenlist 1.8.0 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/frozenlist-1.8.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/frozenlist-1.8.0.dist-info/licenses/LICENSE
+fsspec 2026.4.0 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/fsspec-2026.4.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/fsspec-2026.4.0.dist-info/licenses/LICENSE
+ftfy 6.3.1 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/ftfy-6.3.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/ftfy-6.3.1.dist-info/licenses/LICENSE.txt
+g2p-en 2.1.0 — Apache Software License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/g2p_en-2.1.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/g2p_en-2.1.0.dist-info/LICENSE.txt
+h11 0.16.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/h11-0.16.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt
+huggingface_hub 0.36.2 — Apache
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/huggingface_hub-0.36.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/huggingface_hub-0.36.2.dist-info/licenses/LICENSE
+humanfriendly 10.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/humanfriendly-10.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/humanfriendly-10.0.dist-info/LICENSE.txt
+idna 3.18 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/idna-3.18.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.md
+inflect 7.5.0 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/inflect-7.5.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/inflect-7.5.0.dist-info/LICENSE
+ipadic 1.0.0 — Not declared
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/ipadic-1.0.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/ipadic/dicdir/COPYING
+jieba 0.42.1 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/jieba-0.42.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+jieba_fast 0.53 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/jieba_fast-0.53.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+Jinja2 3.1.6 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/jinja2-3.1.6.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/jinja2-3.1.6.dist-info/licenses/LICENSE.txt
+joblib 1.5.3 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/joblib-1.5.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/joblib-1.5.3.dist-info/licenses/LICENSE.txt
+langcodes 3.5.1 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/langcodes-3.5.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/langcodes-3.5.1.dist-info/licenses/LICENSE.txt
+lazy-loader 0.5 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/lazy_loader-0.5.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/lazy_loader-0.5.dist-info/licenses/LICENSE.md
+librosa 0.10.2 — ISC
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/librosa-0.10.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/librosa-0.10.2.dist-info/LICENSE.md
+lightning-utilities 0.15.3 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/lightning_utilities-0.15.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/lightning_utilities-0.15.3.dist-info/licenses/LICENSE
+llvmlite 0.47.0 — Not declared
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/llvmlite-0.47.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/llvmlite-0.47.0.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/llvmlite-0.47.0.dist-info/LICENSE.thirdparty
+locate 1.1.1 — License :: Other/Proprietary License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/locate-1.1.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/locate-1.1.1.dist-info/LICENSE
+loguru 0.7.3 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/loguru-0.7.3.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+MarkupSafe 3.0.3 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/markupsafe-3.0.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt
+mecab-ko-dic 1.0.0 — Not declared
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/mecab_ko_dic-1.0.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/mecab_ko_dic/dicdir/COPYING
+mecab-python3 1.0.12 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/mecab_python3-1.0.12.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/mecab_python3-1.0.12.dist-info/licenses/AUTHORS
+  License: Runtime/Python_DirectML/Lib/site-packages/mecab_python3-1.0.12.dist-info/licenses/COPYING
+more-itertools 11.1.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/more_itertools-11.1.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/more_itertools-11.1.0.dist-info/licenses/LICENSE
+mpmath 1.3.0 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/mpmath-1.3.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/mpmath-1.3.0.dist-info/LICENSE
+msgpack 1.1.2 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/msgpack-1.1.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/msgpack-1.1.2.dist-info/licenses/COPYING
+multidict 6.7.1 — Apache License 2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/multidict-6.7.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/multidict-6.7.1.dist-info/licenses/LICENSE
+networkx 3.4.2 — License :: OSI Approved :: BSD License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/networkx-3.4.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/networkx-3.4.2.dist-info/LICENSE.txt
+nltk 3.9.4 — Apache License, Version 2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/nltk-3.9.4.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/nltk-3.9.4.dist-info/licenses/AUTHORS.md
+  License: Runtime/Python_DirectML/Lib/site-packages/nltk-3.9.4.dist-info/licenses/LICENSE.txt
+numba 0.65.1 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/numba-0.65.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/numba-0.65.1.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/numba-0.65.1.dist-info/LICENSES.third-party
+numpy 1.26.4 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/numpy-1.26.4.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/numpy/core/include/numpy/random/LICENSE.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/numpy/ma/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/numpy/random/LICENSE.md
+  License: Runtime/Python_DirectML/Lib/site-packages/numpy-1.26.4.dist-info/LICENSE.txt
+onnxruntime-directml 1.23.0 — MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/onnxruntime_directml-1.23.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/onnxruntime/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/onnxruntime/ThirdPartyNotices.txt
+opencc-python-reimplemented 0.1.7 — Apache License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/opencc_python_reimplemented-0.1.7.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/opencc/NOTICE.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/opencc_python_reimplemented-0.1.7.dist-info/LICENSE.txt
+packaging 26.2 — Apache-2.0 OR BSD-2-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/packaging-26.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE.APACHE
+  License: Runtime/Python_DirectML/Lib/site-packages/packaging-26.2.dist-info/licenses/LICENSE.BSD
+pillow 12.2.0 — MIT-CMU
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pillow-12.2.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pillow-12.2.0.dist-info/licenses/LICENSE
+platformdirs 4.10.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/platformdirs-4.10.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/platformdirs-4.10.0.dist-info/licenses/LICENSE
+pooch 1.9.0 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pooch-1.9.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pooch-1.9.0.dist-info/licenses/AUTHORS.md
+  License: Runtime/Python_DirectML/Lib/site-packages/pooch-1.9.0.dist-info/licenses/LICENSE.txt
+proces 0.1.7 — MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/proces-0.1.7.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/proces-0.1.7.dist-info/LICENSE
+propcache 0.5.2 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/propcache-0.5.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/propcache-0.5.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/propcache-0.5.2.dist-info/licenses/NOTICE
+protobuf 7.36.2 — 3-Clause BSD License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/protobuf-7.36.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/protobuf-7.36.2.dist-info/LICENSE
+pycparser 3.0 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pycparser-3.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pycparser-3.0.dist-info/licenses/LICENSE
+pydantic 2.10.6 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pydantic-2.10.6.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pydantic-2.10.6.dist-info/licenses/LICENSE
+pydantic_core 2.27.2 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pydantic_core-2.27.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pydantic_core-2.27.2.dist-info/licenses/LICENSE
+Pygments 2.20.0 — BSD-2-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pygments-2.20.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pygments-2.20.0.dist-info/licenses/AUTHORS
+  License: Runtime/Python_DirectML/Lib/site-packages/pygments-2.20.0.dist-info/licenses/LICENSE
+pyopenjtalk 0.4.1 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pyopenjtalk-0.4.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pyopenjtalk/htsvoice/LICENSE_mei_normal.htsvoice
+  License: Runtime/Python_DirectML/Lib/site-packages/pyopenjtalk-0.4.1.dist-info/licenses/LICENSE.md
+pypinyin 0.50.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pypinyin-0.50.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pypinyin-0.50.0.dist-info/LICENSE.txt
+pyreadline3 3.5.6 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pyreadline3-3.5.6.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pyreadline3-3.5.6.dist-info/licenses/LICENSE.md
+python-fire 0.1.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/python_fire-0.1.0.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+pytorch-lightning 2.6.5 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pytorch_lightning-2.6.5.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pytorch_lightning-2.6.5.dist-info/licenses/LICENSE
+PyYAML 6.0.3 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/pyyaml-6.0.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/pyyaml-6.0.3.dist-info/licenses/LICENSE
+regex 2026.5.9 — Apache-2.0 AND CNRI-Python
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/regex-2026.5.9.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/regex-2026.5.9.dist-info/licenses/LICENSE.txt
+requests 2.34.2 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/requests-2.34.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/requests-2.34.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/requests-2.34.2.dist-info/licenses/NOTICE
+robust-downloader 0.0.2 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/robust_downloader-0.0.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/robust_downloader-0.0.2.dist-info/LICENSE.md
+rotary-embedding-torch 0.8.9 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/rotary_embedding_torch-0.8.9.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/rotary_embedding_torch-0.8.9.dist-info/licenses/LICENSE
+safetensors 0.7.0 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/safetensors-0.7.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/safetensors-0.7.0.dist-info/licenses/LICENSE
+scikit-learn 1.7.2 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/scikit_learn-1.7.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/scikit_learn-1.7.2.dist-info/licenses/COPYING
+  License: Runtime/Python_DirectML/Lib/site-packages/sklearn/externals/array_api_compat/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/sklearn/externals/array_api_extra/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/sklearn/svm/src/liblinear/COPYRIGHT
+scipy 1.15.3 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/scipy-1.15.3.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/scipy/_lib/_uarray/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/scipy/fft/_pocketfft/LICENSE.md
+  License: Runtime/Python_DirectML/Lib/site-packages/scipy/sparse/linalg/_eigen/arpack/COPYING
+  License: Runtime/Python_DirectML/Lib/site-packages/scipy/spatial/qhull_src/COPYING.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/scipy-1.15.3.dist-info/LICENSE.txt
+sentencepiece 0.2.1 — Not declared
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/sentencepiece-0.2.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+setuptools 84.0.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/setuptools-84.0.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.APACHE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.BSD
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/config/_validate_pyproject/NOTICE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools/config/NOTICE
+  License: Runtime/Python_DirectML/Lib/site-packages/setuptools-84.0.0.dist-info/licenses/LICENSE
+soundfile 0.14.0 — BSD 3-Clause License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/soundfile-0.14.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/_soundfile_data/COPYING
+  License: Runtime/Python_DirectML/Lib/site-packages/licensing/license_notes.md
+  License: Runtime/Python_DirectML/Lib/site-packages/soundfile-0.14.0.dist-info/LICENSE
+soxr 1.1.0 — LGPL-2.1-or-later
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/soxr-1.1.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/soxr-1.1.0.dist-info/licenses/COPYING.LGPL
+  License: Runtime/Python_DirectML/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE-libsoxr.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE-PFFFT.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/soxr-1.1.0.dist-info/licenses/LICENSE.txt
+split-lang 2.0.6 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/split_lang-2.0.6.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/split_lang-2.0.6.dist-info/LICENSE
+starlette 1.2.1 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/starlette-1.2.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/starlette-1.2.1.dist-info/licenses/LICENSE.md
+sympy 1.14.0 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/sympy-1.14.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/sympy/parsing/latex/LICENSE.txt
+  License: Runtime/Python_DirectML/Lib/site-packages/sympy-1.14.0.dist-info/licenses/AUTHORS
+  License: Runtime/Python_DirectML/Lib/site-packages/sympy-1.14.0.dist-info/licenses/LICENSE
+termcolor 3.3.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/termcolor-3.3.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/termcolor-3.3.0.dist-info/licenses/COPYING.txt
+threadpoolctl 3.6.0 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/threadpoolctl-3.6.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/threadpoolctl-3.6.0.dist-info/licenses/LICENSE
+tokenizers 0.21.4 — License :: OSI Approved :: Apache Software License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/tokenizers-0.21.4.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+torch 2.4.1 — BSD-3
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/torch-2.4.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/torch-2.4.1.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/torch-2.4.1.dist-info/NOTICE
+torch-directml 0.2.5.dev240914 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/torch_directml-0.2.5.dev240914.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/torch_directml-0.2.5.dev240914.dist-info/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/torch_directml-0.2.5.dev240914.dist-info/NOTICE
+torchmetrics 1.5.0 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/torchmetrics-1.5.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/torchmetrics-1.5.0.dist-info/LICENSE
+torchvision 0.19.1 — BSD
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/torchvision-0.19.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/torchvision-0.19.1.dist-info/LICENSE
+tqdm 4.68.1 — MPL-2.0 AND MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/tqdm-4.68.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/tqdm-4.68.1.dist-info/licenses/LICENCE
+transformers 4.50.0 — Apache 2.0 License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/transformers-4.50.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/transformers-4.50.0.dist-info/LICENSE
+typeguard 4.5.2 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/typeguard-4.5.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/typeguard-4.5.2.dist-info/licenses/LICENSE
+typing_extensions 4.15.0 — PSF-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/typing_extensions-4.15.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/typing_extensions-4.15.0.dist-info/licenses/LICENSE
+typing-inspection 0.4.2 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/typing_inspection-0.4.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/typing_inspection-0.4.2.dist-info/licenses/LICENSE
+urllib3 2.7.0 — MIT
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/urllib3-2.7.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/urllib3-2.7.0.dist-info/licenses/LICENSE.txt
+uvicorn 0.49.0 — BSD-3-Clause
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/uvicorn-0.49.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/uvicorn-0.49.0.dist-info/licenses/LICENSE.md
+wcwidth 0.9.2 — License :: OSI Approved :: MIT License
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/wcwidth-0.9.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/wcwidth-0.9.2.dist-info/licenses/LICENSE
+win32_setctime 1.2.0 — MIT license
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/win32_setctime-1.2.0.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/win32_setctime-1.2.0.dist-info/LICENSE
+wordfreq 3.1.1 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/wordfreq-3.1.1.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/wordfreq-3.1.1.dist-info/LICENSE.txt
+wordsegment 1.3.1 — Apache 2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/wordsegment-1.3.1.dist-info/METADATA
+  No license text found in installed distribution; consult supplemental texts and audit report.
+x-transformers 2.17.10 — Full declaration in METADATA (see path below)
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/x_transformers-2.17.10.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/x_transformers-2.17.10.dist-info/licenses/LICENSE
+yarl 1.24.2 — Apache-2.0
+  Metadata: Runtime/Python_DirectML/Lib/site-packages/yarl-1.24.2.dist-info/METADATA
+  License: Runtime/Python_DirectML/Lib/site-packages/yarl-1.24.2.dist-info/licenses/LICENSE
+  License: Runtime/Python_DirectML/Lib/site-packages/yarl-1.24.2.dist-info/licenses/NOTICE
+

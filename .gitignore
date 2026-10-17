@@ -1,0 +1,33 @@
+# Embedded environments and separately distributed inference assets
+/Runtime/
+/resources/models/
+/resources/nltk_data/
+/resources/avatars/*/references/
+/resources/semantic_prompts/*.npz
+/GPT_SoVITS/text/ja_userdic/
+/GPT_SoVITS/text/*.pickle
+/Redistributables/VC_Runtime_x64/*.dll
+
+# Model binaries and generated output
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.safetensors
+__pycache__/
+*.py[cod]
+*.meta
+*.log
+*.wav
+*.f32
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+/results/
+/output/
+/dist/
+/build/
+.env
+.env.*
+.DS_Store
+Thumbs.db

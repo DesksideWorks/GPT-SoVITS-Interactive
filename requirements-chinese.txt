@@ -1,0 +1,10 @@
+# Additional CPU text frontend dependencies. Keep the existing torch/CUDA/DML stack.
+cn2an==0.5.22
+pypinyin==0.50.0
+jieba==0.42.1
+jieba_fast==0.53
+split-lang==2.0.6
+fast-langdetect==0.3.1
+fasttext-predict==0.9.2.4
+opencc-python-reimplemented==0.1.7
+# Install exactly one ORT distribution using the backend-specific requirements.

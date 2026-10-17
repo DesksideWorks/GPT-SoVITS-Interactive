@@ -1,0 +1,16 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.rep text eol=lf
+*.pickle binary
+*.npz binary
+*.onnx binary
+*.ckpt binary
+*.pth binary
+*.pt binary
+*.dll binary
+*.docx binary
+*.png binary

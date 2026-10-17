@@ -1,0 +1,55 @@
+python-fire 0.1.0 — distributor-supplied license supplement
+
+Package: python-fire (not the Google Fire / fire package)
+Version: 0.1.0
+Author declared by the package: Grug
+Declared homepage: https://github.com/grub/python-fire
+Release metadata: https://pypi.org/pypi/python-fire/0.1.0/json
+Declared license: MIT
+
+Both the installed wheel metadata and the matching source release setup.py
+explicitly declare MIT; the source release also declares the classifier
+"License :: OSI Approved :: MIT License". Neither release includes a separate
+license text. DesksideWorks therefore supplies the standard MIT license text
+below, retaining the package's declared author attribution above.
+
+This supplement was prepared by DesksideWorks. It is not an upstream-authored
+LICENSE file and does not assert additional permission or authorship.
+The upstream release supplies no copyright year or separate copyright notice.
+The <year> and <copyright holders> fields below are the unfilled placeholders
+in the SPDX standard text, not assertions about this package's ownership.
+
+本包的 wheel 元数据及同版本源码 setup.py 均明确声明 MIT，但没有附许可证全文。
+本补充说明由分发方桌边工房（DesksideWorks）整理，保留原作者字段 Grug，并附标准 MIT 全文。
+它不是上游原始 LICENSE 文件；未推定版权年份或将作者字段冒充版权归属声明。
+下文占位符来自 SPDX 标准模板，不代表本包实际版权信息。
+
+本パッケージの配布メタデータおよび同版の setup.py は MIT を明記していますが、
+ライセンス全文を含んでいません。本補足は配布者が標準 MIT 全文を添付したもので、
+上流の原文ではありません。著者欄 Grug を保持し、著作権年や権利者を推定しません。
+
+Source archive: https://files.pythonhosted.org/packages/8a/6f/44ae4333d02d597021b4abb47103a564a05404d82132d1517080ce124ff5/python-fire-0.1.0.tar.gz
+Source archive SHA256: ed3cb202288c6e742a077611fb884b154068758f9ec65eb827520d670bdbada9
+Standard text: https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt
+Standard text SHA256: b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5
+
+--- Standard MIT license text (SPDX template) ---
+
+MIT License
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.

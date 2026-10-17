@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "id": "ja-ami-v1",
+  "language": "ja",
+  "semantic_frame_rate": 25,
+  "gpt_sha256": "fc068e2d97dfd149b080bbf4af2d27acbb04dad57ae8de6bd0bd4fbf39726376",
+  "sovits_sha256": "0eed8d631895cc3722c37d25669fe9d92d35301817394b26e96867d30a3074d8",
+  "file": "ja-ami-v1.npz",
+  "sha256": "62b7007bf9ed0303d91d66f6474330954b747e10ccfa8dbf4ae4d3e26334feef",
+  "phone_count": 56,
+  "token_count": 115,
+  "text": "初めまして、小春音アミ。よろしくお願いします。",
+  "normalized_text": "初めまして、小春音アミ。よろしくお願いします。",
+  "provenance": {
+    "kind": "character-reference-cache",
+    "pcm_encoded": true,
+    "cache_sha256": "44a6ef9d5ed125deede942d182969254d25b58a9d325a7b2924551edf0f1cd59",
+    "reference_audio": "default.wav",
+    "cache_generated_at": "2026-05-29T09:29:31.573710+00:00",
+    "source": "小春音アミ reference recording bundled as the ami character's acoustic reference",
+    "license": "See resources/avatars/ami/AMITARO_VOICE_NOTICE.md"
+  }
+}

@@ -1,0 +1,5 @@
+# Runtime overlay; keep the torch-directml stack separate from CUDA.
+torch-directml==0.2.5.dev240914
+numpy==1.26.4
+onnxruntime-directml==1.23.0
+-r requirements-chinese.txt

@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "date": "2026-10-07",
+  "models": [
+    {
+      "voice": "tyc",
+      "component": "sovits",
+      "epoch": 23,
+      "path": "models/tyc/sovits.pth",
+      "sha256": "74efbba1ce54e95849ce08fe1b4a4b5f8afc6129e63ff0606d2a3dd781d9c946"
+    },
+    {
+      "voice": "ami",
+      "component": "sovits",
+      "epoch": 15,
+      "path": "models/ami/sovits.pth",
+      "sha256": "0eed8d631895cc3722c37d25669fe9d92d35301817394b26e96867d30a3074d8"
+    },
+    {
+      "voice": "shared",
+      "component": "gpt",
+      "selection": "accepted-game-ami",
+      "path": "models/ami/gpt.ckpt",
+      "sha256": "fc068e2d97dfd149b080bbf4af2d27acbb04dad57ae8de6bd0bd4fbf39726376"
+    }
+  ]
+}

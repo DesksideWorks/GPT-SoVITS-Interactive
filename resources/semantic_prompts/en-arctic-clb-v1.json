@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "id": "en-arctic-clb-v1",
+  "language": "en",
+  "semantic_frame_rate": 25,
+  "gpt_sha256": "fc068e2d97dfd149b080bbf4af2d27acbb04dad57ae8de6bd0bd4fbf39726376",
+  "file": "en-arctic-clb-v1.npz",
+  "sha256": "eb1cf0f4dbf25106c14eefc7af3518265410cdf5b04ef07f1a6a7af53690e533",
+  "phone_count": 27,
+  "token_count": 79,
+  "text": "It was a miracle, and I owe you my life.",
+  "normalized_text": "It was a miracle, and I owe you my life.",
+  "provenance": {
+    "kind": "encoded-reference-audio",
+    "pcm_encoded": true,
+    "audio_sha256": "373e2e384376c58705787e01590745457008a5987b6609799d7aff4487bf878f",
+    "audio_seconds": 2.865,
+    "trailing_silence_sec": 0.3,
+    "sovits_sha256": "0eed8d631895cc3722c37d25669fe9d92d35301817394b26e96867d30a3074d8",
+    "source": "CMU ARCTIC, speaker clb, arctic_b0108",
+    "license": "CMU ARCTIC license: free for any purpose, commercial or otherwise",
+    "attribution": "CMU ARCTIC cmu_us_clb_arctic. Copyright (c) 2005 Carnegie Mellon University. All Rights Reserved. Encoded to semantic tokens from the unmodified recording; see http://www.festvox.org/cmu_arctic/"
+  }
+}

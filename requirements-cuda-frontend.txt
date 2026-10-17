@@ -1,0 +1,3 @@
+# Chinese frontend ORT is CPU-only in the CUDA PyTorch environment.
+onnxruntime==1.23.2
+-r requirements-chinese.txt

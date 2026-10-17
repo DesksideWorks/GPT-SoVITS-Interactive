@@ -1,0 +1,298 @@
+{
+  "schema": 1,
+  "upstream": "https://github.com/GPT-SoVITS-Devel/GPT-SoVITS_minimal_inference/",
+  "commit": "6916eb2e9c227aeb28468ce6fa86ad5b17ead532",
+  "files": [
+    {
+      "path": "GPT_SoVITS/text/chinese2.py",
+      "sha256": "3ded4ab24e153028b59fde361d322120769dba37b3a9611d75acbc9b6c6985aa",
+      "bytes": 10296,
+      "source_path": "GPT_SoVITS/text/chinese2.py",
+      "source_sha256": "0be801739aa01950017211db2e3d7bd24e5b0b06cf33c65dfca5bc5a7e22b6e7",
+      "adapted": true
+    },
+    {
+      "path": "GPT_SoVITS/text/tone_sandhi.py",
+      "sha256": "b651a9cf7a94b66401101876616a85479bb2fb266aa41f85423b9371bbe4137d",
+      "bytes": 23791,
+      "source_path": "GPT_SoVITS/text/tone_sandhi.py",
+      "source_sha256": "cb8804c30d310afbe3913093e16399d8f2f5601f1895d2353abbfbdf689898a0",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/opencpop-strict.txt",
+      "sha256": "d66bbb1380a8ebf17d7ace5bf4b459f3728a469eea2aaeae2aeb3969b88223ff",
+      "bytes": 4084,
+      "source_path": "GPT_SoVITS/text/opencpop-strict.txt",
+      "source_sha256": "86c4b30928e3a4305c9148058c9e2e56b04ce741363fedff382421f4a1e3709d",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/dataset.py",
+      "sha256": "418d417c595a781b4011f3b178b5e7711f012c3817dbadbac984def30ec5bb0c",
+      "bytes": 5795,
+      "source_path": "GPT_SoVITS/text/g2pw/dataset.py",
+      "source_sha256": "4742a96b69d3a28dd8633c24b0a2d3f058b1ff56ec19a6b135ad6d74f5e61dbd",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/g2pw.py",
+      "sha256": "d1ff83f45f24ca974834a74409e5f2aebb7aa7b6240c5589b32bb948910eb986",
+      "bytes": 4830,
+      "source_path": "GPT_SoVITS/text/g2pw/g2pw.py",
+      "source_sha256": "d2ab31620d2a4841f0fec920f594ec93afdf03004ad977fc90fe387c2198ff37",
+      "adapted": true
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/onnx_api.py",
+      "sha256": "49a4fec63e557458f17603598d0bd6d2647bb7f1b33d5ba8638e10209bc58254",
+      "bytes": 9487,
+      "source_path": "GPT_SoVITS/text/g2pw/onnx_api.py",
+      "source_sha256": "ca4df8bd2bf621e5750dfb0eeba98ff8225be1a3f20b96fef2b5e236bfe8956d",
+      "adapted": true
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/polyphonic-fix.rep",
+      "sha256": "6444b2ad4a1070dad9b16c7e47271910a69349ff079e8d8e236c8818209b65f4",
+      "bytes": 1660953,
+      "source_path": "GPT_SoVITS/text/g2pw/polyphonic-fix.rep",
+      "source_sha256": "45740a2604e1fc0cf5a3545bd16db6026e53de63a50fb9a5239a161210939a6d",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/polyphonic.rep",
+      "sha256": "a8f13e2004702cbbf01e2e3fe8436d9d620a0fe4d57176a844704619ffd5df5e",
+      "bytes": 1391,
+      "source_path": "GPT_SoVITS/text/g2pw/polyphonic.rep",
+      "source_sha256": "75a45397b90ce4d1c4b19eefda4408a70e33ad2818b57c084af72d9716a56b03",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/utils.py",
+      "sha256": "68ce30b84d53385822b798e5032cc5a2f5f57a320586afc1669a9009e82f4d37",
+      "bytes": 4828,
+      "source_path": "GPT_SoVITS/text/g2pw/utils.py",
+      "source_sha256": "770e3759eefaf097e2289bf92fb45498f6d817de72a0fed813ac301500f6fc43",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/g2pw/__init__.py",
+      "sha256": "9d9634039425e42c0d78e6321fce93d7da62f46cf6a2d52e3201e2d21c6ed631",
+      "bytes": 29,
+      "source_path": "GPT_SoVITS/text/g2pw/__init__.py",
+      "source_sha256": "657dd35ae762e18f9a1d89d9669f3fe017de7e20f5a5005755d7bd667031a5bf",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/char_convert.py",
+      "sha256": "df066ce8e2a3385c7f3b4749f02049f2fdbabbfcc76e6784462a99f0347795e7",
+      "bytes": 66099,
+      "source_path": "GPT_SoVITS/text/zh_normalization/char_convert.py",
+      "source_sha256": "40c9a9567dee1866b6a144f41cef1ee1cbe393d0d308c991849da93f034f8b05",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/chronology.py",
+      "sha256": "bd873579e79976aaa465708791da13b79fd7beeafa6981743f438ec18f7d680a",
+      "bytes": 3428,
+      "source_path": "GPT_SoVITS/text/zh_normalization/chronology.py",
+      "source_sha256": "275ed1ac305db02af67a814c5a5125236f02f5f899bf6db4a36ef510810ba437",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/constants.py",
+      "sha256": "33dd3cbe8443454ab51f12f513d4ce4ba43770981cd0605e240f6d942a9b675b",
+      "bytes": 2329,
+      "source_path": "GPT_SoVITS/text/zh_normalization/constants.py",
+      "source_sha256": "f972d2825d1eeb9dce499b189e891b2d58d9e58e24cc40cc547e88ec7b57c5be",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/num.py",
+      "sha256": "403d613bacc9a8d922db65dd89a6ecb9a283ff4f07b5b38f645005c24387a7e2",
+      "bytes": 9814,
+      "source_path": "GPT_SoVITS/text/zh_normalization/num.py",
+      "source_sha256": "971f985ffe293b98d2d1bcbe93024135801488135bf34bdb813ef8fa9d91dd4c",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/phonecode.py",
+      "sha256": "d8279ca6ddf1af8f26119a75b4dfbb28c7da0adba5c51f807f4503c59d9816a5",
+      "bytes": 1953,
+      "source_path": "GPT_SoVITS/text/zh_normalization/phonecode.py",
+      "source_sha256": "269924b39d8953b75c5d8c5a6a846b5ed9ed53da9b7ab862aaa833be671d03bc",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/quantifier.py",
+      "sha256": "de2d3367906a9df18edcf30698ae286d441c13c090f89d1f492ffdbe0edf93d0",
+      "bytes": 1805,
+      "source_path": "GPT_SoVITS/text/zh_normalization/quantifier.py",
+      "source_sha256": "8cb393826cf822cc4c9e8e4e7cddf1f8393a471d48ce49f2c28a8644fe671b50",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/README.md",
+      "sha256": "f861937c41df6fbe711923a1829e12d62b3abe5300fc173091cd87d115e10d28",
+      "bytes": 1387,
+      "source_path": "GPT_SoVITS/text/zh_normalization/README.md",
+      "source_sha256": "08381cc738864c0204a9b509e7d024b22ad98b477d2b2cc1ce2e9273b26b95bf",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/text_normlization.py",
+      "sha256": "2010a90d73d0e03cc4f99c22a774a4e127fc3a1fe5c0fdc38b03fb3b5754cbb3",
+      "bytes": 7663,
+      "source_path": "GPT_SoVITS/text/zh_normalization/text_normlization.py",
+      "source_sha256": "724bd3c28fd233a47675e24a375cbc6b9f76383b3b2a1c21b1db13e4c28830fa",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/zh_normalization/__init__.py",
+      "sha256": "61e674c9950d1d2a2241a39ecb87bc4172c9b0ed03082ec1dc06ec8dbcaf11e5",
+      "bytes": 664,
+      "source_path": "GPT_SoVITS/text/zh_normalization/__init__.py",
+      "source_sha256": "f4d87f962c2bfd708dcde24fbcc670f7fefa7b49ab634f8f0e19d863262ca2fe",
+      "adapted": false
+    },
+    {
+      "path": "GPT_SoVITS/text/LangSegmenter/langsegmenter.py",
+      "sha256": "40891d68573d05c493b6148561391bfebee908afaa45de2301486be6fb5b1302",
+      "bytes": 9504,
+      "source_path": "GPT_SoVITS/text/LangSegmenter/langsegmenter.py",
+      "source_sha256": "15f84724c88055179e8801623ad07b98f85806ff6fb8271c4dae4b16dac0e62c",
+      "adapted": true
+    },
+    {
+      "path": "resources/models/chinese-roberta-wwm-ext-large/config.json",
+      "sha256": "3d57de2fd7e80d0e5c8ff194f0bbb6baa10df7e43fc262a0cc71298a78b0a3e5",
+      "bytes": 963,
+      "source_path": "resources/pretrained_models/chinese-roberta-wwm-ext-large/config.json",
+      "source_sha256": "3d57de2fd7e80d0e5c8ff194f0bbb6baa10df7e43fc262a0cc71298a78b0a3e5",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/chinese-roberta-wwm-ext-large/pytorch_model.bin",
+      "sha256": "e53a693acc59ace251d143d068096ae0d7b79e4b1b503fa84c9dcf576448c1d8",
+      "bytes": 651225145,
+      "source_path": "resources/pretrained_models/chinese-roberta-wwm-ext-large/pytorch_model.bin",
+      "source_sha256": "e53a693acc59ace251d143d068096ae0d7b79e4b1b503fa84c9dcf576448c1d8",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/chinese-roberta-wwm-ext-large/tokenizer.json",
+      "sha256": "173796956820ea27bd14f76bf28162607ff4254807e2948253eb5b46f5bb643b",
+      "bytes": 268962,
+      "source_path": "resources/pretrained_models/chinese-roberta-wwm-ext-large/tokenizer.json",
+      "source_sha256": "173796956820ea27bd14f76bf28162607ff4254807e2948253eb5b46f5bb643b",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/fast_langdetect/lid.176.bin",
+      "sha256": "7e69ec5451bc261cc7844e49e4792a85d7f09c06789ec800fc4a44aec362764e",
+      "bytes": 131266198,
+      "source_path": "resources/pretrained_models/fast_langdetect/lid.176.bin",
+      "source_sha256": "7e69ec5451bc261cc7844e49e4792a85d7f09c06789ec800fc4a44aec362764e",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/bopomofo_to_pinyin_wo_tune_dict.json",
+      "sha256": "0fe90e26be7653023772b3ad2d08952961bbf295fb39ba685c7172d3d9769f52",
+      "bytes": 7739,
+      "source_path": "GPT_SoVITS/text/G2PWModel/bopomofo_to_pinyin_wo_tune_dict.json",
+      "source_sha256": "0fe90e26be7653023772b3ad2d08952961bbf295fb39ba685c7172d3d9769f52",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/char_bopomofo_dict.json",
+      "sha256": "4832fb6a553a9c5ee0c18b5cb698ce0acc312f324ee77ee61c340266d228184d",
+      "bytes": 1851143,
+      "source_path": "GPT_SoVITS/text/G2PWModel/char_bopomofo_dict.json",
+      "source_sha256": "4832fb6a553a9c5ee0c18b5cb698ce0acc312f324ee77ee61c340266d228184d",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/config.py",
+      "sha256": "b6154e494355d14a8d2c8a38d07720f77b34479e26aab21a5f63495ae904da76",
+      "bytes": 347,
+      "source_path": "GPT_SoVITS/text/G2PWModel/config.py",
+      "source_sha256": "b6154e494355d14a8d2c8a38d07720f77b34479e26aab21a5f63495ae904da76",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/g2pW.onnx",
+      "sha256": "2eb3c71fd95117b2e1abef8d2d0cd78aae894bbe7f0fac105ddc9c32ce63cbd0",
+      "bytes": 635212732,
+      "source_path": "GPT_SoVITS/text/G2PWModel/g2pW.onnx",
+      "source_sha256": "2eb3c71fd95117b2e1abef8d2d0cd78aae894bbe7f0fac105ddc9c32ce63cbd0",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/MONOPHONIC_CHARS.txt",
+      "sha256": "fe7ed53098648441a94f414ed5fd3395789d1dceb98dc1e584489c2d43036b69",
+      "bytes": 120744,
+      "source_path": "GPT_SoVITS/text/G2PWModel/MONOPHONIC_CHARS.txt",
+      "source_sha256": "fe7ed53098648441a94f414ed5fd3395789d1dceb98dc1e584489c2d43036b69",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/POLYPHONIC_CHARS.txt",
+      "sha256": "cc7e5a3eb377e3289af5e3a6be7505ac11a0d21422f80cfbf161059798f8671b",
+      "bytes": 102444,
+      "source_path": "GPT_SoVITS/text/G2PWModel/POLYPHONIC_CHARS.txt",
+      "source_sha256": "cc7e5a3eb377e3289af5e3a6be7505ac11a0d21422f80cfbf161059798f8671b",
+      "adapted": false
+    },
+    {
+      "path": "resources/models/g2pw/version",
+      "sha256": "cf063c2ce8ac1403d4dca358f0568dfd32684e7a4412e24bc6e7cd1a7cd0cefb",
+      "bytes": 5,
+      "source_path": "GPT_SoVITS/text/G2PWModel/version",
+      "source_sha256": "cf063c2ce8ac1403d4dca358f0568dfd32684e7a4412e24bc6e7cd1a7cd0cefb",
+      "adapted": false
+    },
+    {
+      "path": "chinese_frontend.py",
+      "sha256": "f16a93fe070cee5873a5f7b729f83586b1ae896f2a7dd0e0c8f0f6e3c7f20eaa",
+      "bytes": 2257,
+      "origin": "DesktopDaily integration",
+      "adapted": true
+    },
+    {
+      "path": "run_inference.py",
+      "sha256": "a40260f2e2eff16b73642e9cc13c7579d002e3d9ae0f2399f756bf35b086f010",
+      "bytes": 48178,
+      "origin": "DesktopDaily integration"
+    },
+    {
+      "path": "resources/voices.json",
+      "sha256": "d52d67b77aae4f0d005e1ea531fd34182ba31a80dd03e37c2bb5b7bc0a68ce01",
+      "bytes": 1147,
+      "origin": "DesktopDaily integration"
+    },
+    {
+      "path": "GPT_SoVITS/text/cleaner.py",
+      "sha256": "f4a02852f9ac9fad0eab499f8750020b677de606a464ad17f348bf2cff69e30f",
+      "bytes": 1735,
+      "origin": "DesktopDaily integration"
+    },
+    {
+      "path": "requirements-chinese.txt",
+      "sha256": "4240aae8b2acb649480a6ab4445ce4da52e7bd81d35af40177cf5b2a2bfb59f4",
+      "bytes": 329,
+      "origin": "DesktopDaily integration"
+    },
+    {
+      "path": "GPT_SoVITS/text/LangSegmenter/__init__.py",
+      "sha256": "325aeb7453d371e8e30bebf51937e2897d7df593ff08833ee45f08012b2ea421",
+      "bytes": 41,
+      "origin": "DesktopDaily integration"
+    }
+  ],
+  "gpt_reference": false,
+  "text_model_device": "cpu",
+  "g2pw_providers": [
+    "CPUExecutionProvider"
+  ],
+  "models_from_optimized_checkout": true
+}

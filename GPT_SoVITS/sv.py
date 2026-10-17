@@ -1,0 +1,49 @@
+import sys
+import os
+from pathlib import Path
+import torch
+
+now_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(f"{now_dir}/eres2net")
+from ERes2NetV2 import ERes2NetV2
+import kaldi as Kaldi
+
+
+def _resolve_sv_path():
+    if os.environ.get("SV_MODEL_PATH"):
+        return os.environ["SV_MODEL_PATH"]
+    runtime_root = Path(__file__).resolve().parents[1]
+    candidates = [
+        runtime_root / "resources" / "pretrained_models" / "sv" / "pretrained_eres2netv2w24s4ep4.ckpt",
+        runtime_root / "pretrained_models" / "sv" / "pretrained_eres2netv2w24s4ep4.ckpt",
+        Path("resources") / "pretrained_models" / "sv" / "pretrained_eres2netv2w24s4ep4.ckpt",
+        Path("pretrained_models") / "sv" / "pretrained_eres2netv2w24s4ep4.ckpt",
+    ]
+    for candidate in candidates:
+        if candidate.is_file():
+            return str(candidate)
+    return str(candidates[0])
+
+
+class SV:
+    def __init__(self, device, is_half):
+        pretrained_state = torch.load(_resolve_sv_path(), map_location="cpu", weights_only=False)
+        embedding_model = ERes2NetV2(baseWidth=24, scale=4, expansion=4)
+        embedding_model.load_state_dict(pretrained_state)
+        embedding_model.eval()
+        self.embedding_model = embedding_model
+        if is_half == False:
+            self.embedding_model = self.embedding_model.to(device)
+        else:
+            self.embedding_model = self.embedding_model.half().to(device)
+        self.is_half = is_half
+
+    def compute_embedding3(self, wav):
+        with torch.no_grad():
+            if self.is_half == True:
+                wav = wav.half()
+            feat = torch.stack(
+                [Kaldi.fbank(wav0.unsqueeze(0), num_mel_bins=80, sample_frequency=16000, dither=0) for wav0 in wav]
+            ).to(next(self.embedding_model.parameters()).device)
+            sv_emb = self.embedding_model.forward3(feat)
+        return sv_emb

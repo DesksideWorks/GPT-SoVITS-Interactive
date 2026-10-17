@@ -1,0 +1,68 @@
+GPT-SoVITS Interactive Runtime
+
+This project is derived from GPT-SoVITS_minimal_inference, which is licensed
+under the Apache License, Version 2.0.
+
+Original code added by DesksideWorks in this repository is released under the
+Apache License, Version 2.0. See LICENSE. This statement does not relicense
+GPT-SoVITS, third-party source code, model weights, voice data, prompt caches,
+or other independently licensed resources; those remain under their original
+licenses and notices.
+
+Major changes in this fork:
+
+- Adapted PyTorch inference and the local streaming API for short interactive
+  dialog use cases.
+- Added coarse timeline export from SoVITS MRTE cross-attention.
+- Added prompt-side prebuilt cache loading so reference SSL/SV extraction can
+  be done offline.
+- Added CUDA, CPU, and DirectML backend selection.
+- Added ORT DirectML GPT with GPU-resident KV and matched DXGI adapters
+  and SoVITS audio decode using torch-directml.
+- Added a fixed short-dialog benchmark API.
+- Restored Chinese G2PW/BERT and multilingual segmentation from the optimized
+  minimal-inference checkout, with bundled offline models on CPU.
+- Shared the game Ami GPT across character voices, using target text without a
+  GPT reference prompt while retaining each character's SoVITS voice features.
+- Added runtime test scripts for CUDA, backend compatibility, and DirectML
+  user performance reports.
+- Replaced legacy ONNX/TensorRT paths with the dedicated ORT DirectML GPT path;
+  removed WebUI, training entry points, ASR
+  helpers, and runtime-unneeded language frontends from the packaging path.
+
+Voice models, reference audio, embedded Python runtimes, PyTorch wheels,
+DirectML wheels, NLTK data, pyopenjtalk dictionaries/voices, and other third
+party runtime artifacts are not covered by this NOTICE alone. Include their
+licenses and notices when publishing a complete binary/runtime package.
+
+See TTS_MODEL_AND_DATA_NOTICE.md for model/data origins and Licenses/ for
+frontend model license texts. Embedded-package notices and original license
+texts are indexed in ../PythonThirdPartyNotices.txt and
+../PythonThirdPartyLicenseTexts.txt in the application StreamingAssets folder.
+
+Character and voice-source credits
+---------------------------------
+
+音声：小春音アミ（Ami Koharune / CV：あみたろ）
+音声データ出典：あみたろの声素材工房 / Amitaro's Voice Material Studio
+https://amitaro.net/
+© Amitaro's Voice Material Studio
+
+本ソフトウェアの音声合成には、フリー素材キャラクター「つくよみちゃん」
+（© Rei Yumesaki）が無料公開している音声データを使用しています。
+■つくよみちゃんコーパス（CV.夢前黎）
+使用音源：Vol.1 声優統計コーパス（JVSコーパス準拠）
+https://tyc.rei-yumesaki.net/material/corpus/
+■つくよみちゃん公式サイト
+https://tyc.rei-yumesaki.net/
+
+The character SoVITS models use their respective voice sources above.
+Both characters share a semantic GPT trained with 小春音アミ source material;
+the つくよみちゃん synthesis path therefore also uses that model component.
+The Chinese and English semantic references come from other speakers (a
+Qwen3-TTS generated Mandarin sentence and a CMU ARCTIC English recording).
+Both voice-source credits apply. These are unofficial synthesis models,
+not models created or endorsed by either original voice-material provider.
+Voice material, model weights and reference caches remain subject to their
+original terms; these credits grant no additional voice or character rights.
+See TTS_MODEL_AND_DATA_NOTICE.md and the bundled character voice notices.

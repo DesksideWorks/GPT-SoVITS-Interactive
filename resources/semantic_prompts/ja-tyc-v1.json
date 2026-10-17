@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "id": "ja-tyc-v1",
+  "language": "ja",
+  "semantic_frame_rate": 25,
+  "gpt_sha256": "fc068e2d97dfd149b080bbf4af2d27acbb04dad57ae8de6bd0bd4fbf39726376",
+  "sovits_sha256": "74efbba1ce54e95849ce08fe1b4a4b5f8afc6129e63ff0606d2a3dd781d9c946",
+  "file": "ja-tyc-v1.npz",
+  "sha256": "2b503792d799095d751f23afe1023b71334027bd571a6391163ea0e9aca6cba2",
+  "phone_count": 55,
+  "token_count": 81,
+  "text": "フリー素材キャラクターのつくよみちゃんと申します。",
+  "normalized_text": "フリー素材キャラクターのつくよみちゃんと申します。",
+  "provenance": {
+    "kind": "encoded-reference-audio",
+    "pcm_encoded": true,
+    "audio_sha256": "07cbcda0d99d7675d81dfb1bfed22fcc234d8b1fcb10e84ea0b5e07814a2f827",
+    "audio_seconds": 2.95,
+    "trailing_silence_sec": 0.3,
+    "sovits_sha256": "74efbba1ce54e95849ce08fe1b4a4b5f8afc6129e63ff0606d2a3dd781d9c946",
+    "source": "つくよみちゃん reference recording bundled as the tyc character's acoustic reference, first sentence (0-2.95 s)",
+    "license": "See resources/avatars/tyc/TSUKUYOMICHAN_VOICE_NOTICE.md"
+  }
+}
