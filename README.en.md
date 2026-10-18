@@ -257,6 +257,29 @@ If you are looking for **anime-style voices available for commercial use free of
 
 The rights for character voice data, reference caches and generated audio are separate from the code license; see the [license section](#license) at the end.
 
+<a id="3d-models"></a>
+
+### 3D models to use with the voices
+
+We also offer SD-style 3D models of both characters, **free to download and use commercially under the model licenses and official character terms, with no model usage or license fees**. These are the designs shown in the banner at the top of this page. You can pair them with this repository's character voices to build desktop companions, game NPCs or other interactive applications:
+
+- [Tsukuyomi-chan SD Dress Ver.](https://www.desksideworks.com/en/models/tsukuyomi-chan)
+- [Ami Koharune SD Everyday Outfit Ver.](https://www.desksideworks.com/en/models/ami-koharune)
+
+Specifications for the currently available **v1.0** releases:
+
+| Specification | Tsukuyomi-chan SD Dress Ver. | Ami Koharune SD Everyday Outfit Ver. |
+|---|---|---|
+| Triangle count | Approx. 96,000 tris | Approx. 130,000 tris |
+| MMD-style expressions | 64 | 64 |
+| Intermediate / corrective expressions | 20 | 20 |
+| ARKit expressions | 52 | 52 |
+| Available formats | VRM / Warudo / UnityPackage | VRM / Warudo / UnityPackage |
+
+After integrating a model into your application, you can use this repository's audio and per-character timeline to coordinate subtitles, expressions and gestures as the character speaks.
+
+Each model's page provides previews, downloads, credits and usage terms. The 3D models and character voices have separate licenses; follow both when using them together.
+
 <a id="credits"></a>
 
 ### Voice credits
